@@ -3,6 +3,12 @@
 
 **Access the [Windows ARP cache](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/arp.mspx).**
 
+## Installation
+
+```
+npm install win-arp
+```
+
 ## Quickstart
 
 ```js
