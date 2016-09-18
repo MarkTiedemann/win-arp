@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "name": "win-arp",
+  "description": "Access the Windows ARP cache.",
+  "license": "WTFPL",
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "win",
+    "windows",
+    "arp",
+    "address",
+    "resolution",
+    "cache"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/win-arp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/win-arp/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/win-arp"
+}
